@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `winsdksetup.exe` |
-| **Size** | 1.36 MB |
+| **Size** | 1.38 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
